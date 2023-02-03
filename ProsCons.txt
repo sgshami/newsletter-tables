@@ -1,0 +1,13 @@
+Pros
+	-Alternative text on all the images I used so that it can 
+		render even if the images are not found
+	-Very accessible friendly
+  -You can read the text when anything happens to the page that does not alter the text
+Cons
+	-Contrast issue at the address that makes it hard to read.
+		It is supposed to be more "hidden" so there is less focus
+		on it.
+	-I don't have any regions that are well defined. I kind of just
+		have everything there all after eachother. Nothing kind of
+		splitting it up.
+  -It is hard to read the text when something happens to the text such as blurry vision
